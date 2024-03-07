@@ -1,3 +1,6 @@
 [submodule "GUJIAFENG"]
 	path = GUJIAFENG
 	url = https://github.com/GUJIAFENG/cd2024.git
+[submodule "BX41023132"]
+	path = BX41023132
+	url = https://github.com/BX41023132/cd2024.git
