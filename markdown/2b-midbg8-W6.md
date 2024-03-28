@@ -10,3 +10,9 @@ Author: 41023132、41039138
 2b-midbg8 協同產品設計實習課程.
 
 <!-- PELICAN_END_SUMMARY -->
+
+# 課程內容
+
+ ## 論文中英並列
+ ## 教學影片分組和自評
+ ## ODOO, NX, Sourcetree, Github and Replit下載和應用
