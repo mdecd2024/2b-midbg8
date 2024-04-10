@@ -20,8 +20,6 @@ jobs:
       - name: Install texlive and related fonts
         run:
           sudo apt install -y texlive texlive-xetex texlive-lang-chinese gsfonts fonts-moe-standard-kai ttf-mscorefonts-installer librsvg2-bin texlive-fonts-extra 
-      - name: Initialize submodules
-        run: git submodule update --init --recursive
        - name: Test LaTeX
         working-directory: ./latex
         run: |
