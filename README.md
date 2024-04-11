@@ -1,5 +1,11 @@
 # cmsimde_site
 
+41023132: https://github.com/BX41023132/cd2024
+
+
+41039138: https://github.com/GUJIAFENG/cd2024
+
+
 利用 init_replit 指令安裝所需 Python 模組
 
 chmod u+x init_replit
