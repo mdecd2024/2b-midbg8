@@ -193,7 +193,7 @@ latex可的檔案分別指到這幾個目錄
 這個都沒改版
 假如有改版的話
 我們後面再來看
-到底samajio要怎麼update
+到底submouble要怎麼update
 就跟你CMS IMD是一樣
 所以我們現在推上來的部分
 我們的第六組的網站

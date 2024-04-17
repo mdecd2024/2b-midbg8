@@ -17,7 +17,7 @@
 我把它抓下來
 然後我試著對它改版一下好了
 所以我把markdown
-把Markdown剛剛那個檔案把它抓下來
+把markdown剛剛那個檔案把它抓下來
 我們B班的這個
 所以我這裡底下我就加一個
 所以這裡我們看到的是
@@ -37,7 +37,7 @@ OK 好 結束
 所以我看能不能
 因為我有CMS
 所以我Chmod U+x 
-不是CMS 是Accomy Push
+不是CMS 是a commitpush
 所以我就acp
 嘗試從gitPod維護各課程網站
 哇糟糕 acp
@@ -53,11 +53,11 @@ Open Access Control
 Operation Required Additional
 我看看
 它這邊要確認一下
-所以GitProvider
+所以GitProviders
 它這邊有整合
-Git Integration
+Git Integrations
 Self Managed
-Aided Permission
+Edit Permission
 可以耶 這個
 所以它這個比較好
 所以它可以
@@ -112,7 +112,7 @@ OK 你這裡其實也可以讓它在背景執行
 然後這個的話就是Gitpod.io
 OK 就這樣
 所以我把它convert
-所以你會發現它比這個Request快很多
+所以你會發現它比這個Replit快很多
 所以改了版之後
 我們就可以直接再啟動一個要推的
 所以我就把終端機再開一個
@@ -329,12 +329,12 @@ ok他是在這裡
 就是要一行一行一行show
 所以我們的重點
 那一個host就是這個
-然後你後面是帽號
+然後你後面是冒號
 前面是git
 這個就是user
 所以這個影片大概就拍到這邊
 所以遠端的部分
-我們剛剛一概已經推上來了
+我們剛剛應該已經推上來了
 有沒有在這裡
 所以表示是ok的
 所以這裡你假如去看的話
