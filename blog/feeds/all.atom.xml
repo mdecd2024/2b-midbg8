@@ -17,7 +17,7 @@
 
 
 &lt;h2&gt;課程活動&lt;/h2&gt;
-&lt;h1&gt;檢查之前進度是否跟上&lt;/h1&gt;</content><category term="w8"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W7</title><link href="./2024-Spring-w7-blog-tutorial.html" rel="alternate"></link><published>2024-04-04T13:20:00+08:00</published><updated>2024-04-17T13:24:40+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-04-04:./2024-Spring-w7-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+&lt;h1&gt;檢查之前進度是否跟上&lt;/h1&gt;</content><category term="w8"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W7</title><link href="./2024-Spring-w7-blog-tutorial.html" rel="alternate"></link><published>2024-04-04T13:20:00+08:00</published><updated>2024-04-25T06:38:19+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-04-04:./2024-Spring-w7-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 
 
@@ -30,31 +30,28 @@
 &lt;p&gt;協同設計的架構上, 個人與分組的倉儲中, 有了以下協同模式:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;分組網站內容的協同 : 其中包括章節式的網站內容與網誌內容, 可以透過 Python 程式方法整合各學員子模組中的 &lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;              config/content.htm 以及 markdown/*.md 檔案至分組網站中
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
+&lt;p&gt;分組網站內容的協同 : &lt;/p&gt;
+&lt;p&gt;其中包括章節式的網站內容與網誌內容, 可以透過 Python 程式方法整合各學員子模組中的 
+config/content.htm 以及 markdown/*.md 檔案至分組網站中&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;分組報告內容的協同 : 採用的是 Github Actions 與近端 MikTeX 中的 xelatex 將 .tex 轉為 pdf 的整合過程 &lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;分組產品設計的 PLM 協同 : 採用的是 Odoo PLM 模組,將網站內容、報告內容視為產品, 從協同架構的訂定作為起點, 完成資料展示作為終點&lt;/p&gt;
+&lt;p&gt;分組產品設計的 PLM 協同 : &lt;/p&gt;
+&lt;p&gt;採用的是 Odoo PLM 模組,將網站內容、報告內容視為產品, 從協同架構的訂定作為起點, 完成資料展示作為終點&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;分組零組件設計的協同 : 分別採用 Solvespace 作為鋼球平衡台範例, 讓學員使用 Siemens NX 1872 進行協同零組件繪圖設計, 並將各零件的 .prt 檔&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;                案納入各學員的倉儲進行組立
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
+&lt;p&gt;分組零組件設計的協同 : &lt;/p&gt;
+&lt;p&gt;分別採用 Solvespace 作為鋼球平衡台範例, 讓學員使用 Siemens NX 1872 進行協同零組件繪圖設計, 並將各零件的 .prt 檔案納入各學員的倉儲進行組立&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;分組模擬場景設計的協同 : 當各分組順利完成鋼球平衡台的零組件轉檔後, 一旦進入 CoppeliaSim 場景後, 必須逐一配置感測器, 找到合用或最佳的協同&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;                  產品設計模式.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
+&lt;p&gt;分組模擬場景設計的協同 : &lt;/p&gt;
+&lt;p&gt;當各分組順利完成鋼球平衡台的零組件轉檔後, 一旦進入 CoppeliaSim 場景後, 必須逐一配置感測器, 找到合用或最佳的協同產品設計模式.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;分組專案簡報設計的協同 : 在上述各產品設計階段所累積的各種資料, 該如何有效整合到專案完成後必須進行的網際簡報中.&lt;/p&gt;
+&lt;p&gt;分組專案簡報設計的協同 : &lt;/p&gt;
+&lt;p&gt;在上述各產品設計階段所累積的各種資料, 該如何有效整合到專案完成後必須進行的網際簡報中。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2&gt;分組網站內容的協同&lt;/h2&gt;
