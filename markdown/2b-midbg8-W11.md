@@ -1,9 +1,9 @@
 ---
-Title: 2b-midbg8協同產品設計實習-W10
-Date: 2024-04-25 13:20
-Category: w10
+Title: 2b-midbg8協同產品設計實習-W11
+Date: 2024-05-03 13:20
+Category: w11
 Tags: 網誌編寫
-Slug: 2024-Spring-w10-blog-tutorial
+Slug: 2024-Spring-w11-blog-tutorial
 Author: 41023132、41039138
 ---
 

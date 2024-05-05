@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-04-25T13:20:00+08:00</updated><entry><title>2b-midbg8協同產品設計實習-W10</title><link href="./2024-Spring-w10-blog-tutorial.html" rel="alternate"></link><published>2024-04-25T13:20:00+08:00</published><updated>2024-04-25T06:57:14+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-04-25:./2024-Spring-w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-05T16:10:39+08:00</updated><entry><title>2b-midbg8協同產品設計實習-W11</title><link href="./2024-Spring-w11-blog-tutorial.html" rel="alternate"></link><published>2024-05-03T13:20:00+08:00</published><updated>2024-05-05T16:10:39+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-05-03:./2024-Spring-w11-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+
+
+&lt;h2&gt;利用 NX 1872 繪製鋼球平衡台所需的零組件&lt;/h2&gt;
+&lt;p&gt;建立協同 Web-based 機電系統模擬設計必須涉及的議題包括：&lt;/p&gt;
+&lt;p&gt;如何使用 NX 執行零組件繪圖 - NX 參考資料
+如何使用1872版安裝及可攜版 - NX1872
+如何啓動及連網認證 - NX1872
+了解啓動後用戶設定的存檔位置 - NX1872
+認識 NX 的目錄模組架構 - NX
+認識 NXOpen Python 程式延伸架構 - NXOpen
+了解 Journal 程式設定、建立及執行（internal 及 run_journal.exe 用法）
+了解如何針對設計繪圖尺寸單位選擇 - 建立新零件檔案時由 Units 選單選則 mm 或 inches
+學習草圖建構、參數選用及長出特徵使用 - NX 參考資料
+學習如何完成零件組立 - NX 參考資料
+了解零組件轉檔相關知識（如選用零組件座標系統、STL格式及尺寸比例）
+了解如何轉入 CoppeliaSim，如何選擇合用的尺寸及比例
+了解如何進行場景組件的座標系統轉換
+了解開放式機構及封閉式機構的場景如何設置
+認識場景存檔的三種格式（binary與XML間的轉換及應用)及應用時機
+瞭解如何運用 Web-based 場景模擬串流
+學習如何建立場景控制程式（internal Lua、Python、Remoteapi Python、IPv4 Websocket&amp;amp;ZMQ vs IPv6 Websocket&amp;amp;ZMQ)
+了解如何協同整理資料、編寫網誌、建立網際簡報及結案報告&lt;/p&gt;</content><category term="w11"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W10</title><link href="./2024-Spring-w10-blog-tutorial.html" rel="alternate"></link><published>2024-04-25T13:20:00+08:00</published><updated>2024-04-25T06:57:14+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-04-25:./2024-Spring-w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 
 
