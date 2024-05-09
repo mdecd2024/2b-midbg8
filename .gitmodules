@@ -10,6 +10,3 @@
 [submodule "new_submodule_name"]
 	path = 41023132
 	url = https://github.com/BX41023132/cd2024.git
-[submodule "cd2024"]
-	path = cd2024
-	url = https://github.com/BX41023132/cd2024
