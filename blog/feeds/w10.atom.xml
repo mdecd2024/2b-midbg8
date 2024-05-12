@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w10</title><link href="./" rel="alternate"></link><link href="./feeds/w10.atom.xml" rel="self"></link><id>./</id><updated>2024-05-12T07:35:04+08:00</updated><entry><title>2b-midbg8協同產品設計實習-W10</title><link href="./2024-Spring-w10-blog-tutorial.html" rel="alternate"></link><published>2024-04-25T13:20:00+08:00</published><updated>2024-05-12T07:35:04+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-04-25:./2024-Spring-w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w10</title><link href="./" rel="alternate"></link><link href="./feeds/w10.atom.xml" rel="self"></link><id>./</id><updated>2024-05-12T11:31:25+08:00</updated><entry><title>2b-midbg8協同產品設計實習-W10</title><link href="./2024-Spring-w10-blog-tutorial.html" rel="alternate"></link><published>2024-04-25T13:20:00+08:00</published><updated>2024-05-12T11:31:25+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-04-25:./2024-Spring-w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 
 
@@ -43,4 +43,23 @@
 &lt;h3&gt;Construction and theoretical study&lt;/h3&gt;
 &lt;p&gt;這篇論文的摘要涵蓋了控制理論及其應用對動態系統的重要性，特別是在補償對於本身不穩定或半穩定系統施加的干擾和外部行為方面。通過建構一個實物裝置來展示理論，並進一步比較從牛頓力學中得出的實際物理和電腦模擬結果。為了進行比較，設計一個滿足系統要求的滿意控制器是必要的。在裝置和控制方面，引入了一個比例-積分-微分（PID）控制器，用於平衡平台上的球。進一步進行分析以確定在穩定自然不穩定或半穩定系統時的限制，並檢查這些限制與理論期望之間的差異。&lt;/p&gt;
 &lt;p&gt;整篇論文中應用的控制是線性類型，僅能在線性控制範圍內正常運作。使用標準元件和微控制器，構建了一個裝置來維持平台上的球。通過使用Arduino庫和開源代碼進行編程。因此，出於研究目的，看看該裝置是否能夠在線性控制領域內正常運作。&lt;/p&gt;
-&lt;p&gt;總之，這篇論文將首先通過計算機輔助程序來涵蓋球在平台上的理論模型。然後將理論結果與從實物構造中獲得的結果進行比較。進一步檢查控制理論和系統實施方面的差異原因。&lt;/p&gt;</content><category term="w10"></category><category term="網誌編寫"></category></entry></feed>
+&lt;p&gt;總之，這篇論文將首先通過計算機輔助程序來涵蓋球在平台上的理論模型。然後將理論結果與從實物構造中獲得的結果進行比較。進一步檢查控制理論和系統實施方面的差異原因。&lt;/p&gt;
+&lt;div id="disqus_thread"&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://blog-1-4.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w10"></category><category term="網誌編寫"></category></entry></feed>

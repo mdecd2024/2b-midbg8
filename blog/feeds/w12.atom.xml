@@ -1,8 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w12</title><link href="./" rel="alternate"></link><link href="./feeds/w12.atom.xml" rel="self"></link><id>./</id><updated>2024-05-12T07:40:18+08:00</updated><entry><title>2b-midbg8協同產品設計實習-W12</title><link href="./2024-Spring-w12-blog-tutorial.html" rel="alternate"></link><published>2024-05-10T13:20:00+08:00</published><updated>2024-05-12T07:40:18+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-05-10:./2024-Spring-w12-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w12</title><link href="./" rel="alternate"></link><link href="./feeds/w12.atom.xml" rel="self"></link><id>./</id><updated>2024-05-12T11:37:42+08:00</updated><entry><title>2b-midbg8協同產品設計實習-W12</title><link href="./2024-Spring-w12-blog-tutorial.html" rel="alternate"></link><published>2024-05-10T13:20:00+08:00</published><updated>2024-05-12T11:37:42+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-05-10:./2024-Spring-w12-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 
 
 &lt;h2&gt;NXOpen 實習項目一&lt;/h2&gt;
 &lt;h2&gt;將各分組倉儲設為評分倉儲的子模組&lt;/h2&gt;
-&lt;h2&gt;cd2023 足球機器人網際場景模擬&lt;/h2&gt;</content><category term="w12"></category><category term="網誌編寫"></category></entry></feed>
+&lt;h2&gt;cd2023 足球機器人網際場景模擬&lt;/h2&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jN2-4E6mAZA?si=pCos0nB49gXEIRR8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;div id="disqus_thread"&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://blog-1-4.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w12"></category><category term="網誌編寫"></category></entry></feed>
