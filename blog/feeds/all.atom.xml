@@ -1,16 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-12T11:42:37+08:00</updated><entry><title>2b-midbg8協同產品設計實習-W12</title><link href="./2024-Spring-w12-blog-tutorial.html" rel="alternate"></link><published>2024-05-10T13:20:00+08:00</published><updated>2024-05-12T11:42:37+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-05-10:./2024-Spring-w12-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-12T11:57:37+08:00</updated><entry><title>2b-midbg8協同產品設計實習-W12</title><link href="./2024-Spring-w12-blog-tutorial.html" rel="alternate"></link><published>2024-05-10T13:20:00+08:00</published><updated>2024-05-12T11:57:37+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-05-10:./2024-Spring-w12-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 
 
-&lt;h2&gt;NXOpen 實習項目一&lt;/h2&gt;
-&lt;h2&gt;將各分組倉儲設為評分倉儲的子模組&lt;/h2&gt;
-&lt;h2&gt;cd2023 足球機器人網際場景模擬&lt;/h2&gt;
+&lt;h2&gt;NXOpen 實習項目一(分工41023132)&lt;/h2&gt;
+&lt;h2&gt;將各分組倉儲設為評分倉儲的子模組(分工41039138)&lt;/h2&gt;
+&lt;h2&gt;cd2023 足球機器人網際場景模擬(分工41039138)&lt;/h2&gt;
+&lt;p&gt;可到&lt;a href="https://github.com/mdecd2023/2a3-pj3ag4"&gt;參考連結&lt;/a&gt;中，downloads\zmq_football 目錄下下載檔案&lt;/p&gt;
 &lt;p&gt;模擬畫面&lt;/p&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jN2-4E6mAZA?si=pCos0nB49gXEIRR8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;得分畫面&lt;/p&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/u7Wzc-2tV84?si=x0jamJuv94u7C2Gk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;style&gt;
+  .content-bg {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url("/path/to/images/1-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+  }
+  .post-meta {
+    background-color: transparent;
+    padding: 5px;
+  }
+&lt;/style&gt;
+
+&lt;body&gt;
+  &lt;div class="content-bg"&gt;&lt;/div&gt;
+&lt;/body&gt;
 
 &lt;div id="disqus_thread"&gt;&lt;/div&gt;
 &lt;script&gt;

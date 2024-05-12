@@ -11,11 +11,14 @@ Author: 41023132、41039138
 
 <!-- PELICAN_END_SUMMARY -->
 
-## NXOpen 實習項目一
+## NXOpen 實習項目一(分工41023132)
 
-## 將各分組倉儲設為評分倉儲的子模組
+## 將各分組倉儲設為評分倉儲的子模組(分工41039138)
 
-## cd2023 足球機器人網際場景模擬
+## cd2023 足球機器人網際場景模擬(分工41039138)
+
+可到[參考連結](https://github.com/mdecd2023/2a3-pj3ag4)中，downloads\zmq_football 目錄下下載檔案
+
 
 模擬畫面
 
@@ -28,6 +31,30 @@ Author: 41023132、41039138
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u7Wzc-2tV84?si=x0jamJuv94u7C2Gk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<style>
+  .content-bg {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url("/path/to/images/1-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+  }
+  .post-meta {
+    background-color: transparent;
+    padding: 5px;
+  }
+</style>
+
+<body>
+  <div class="content-bg"></div>
+</body>
 
 
 
