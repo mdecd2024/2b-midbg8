@@ -33,6 +33,12 @@ Author: 41023132、41039138
 學習如何建立場景控制程式（internal Lua、Python、Remoteapi Python、IPv4 Websocket&ZMQ vs IPv6 Websocket&ZMQ)
 了解如何協同整理資料、編寫網誌、建立網際簡報及結案報告
 
+
+
+## 各週指定任務
+
+到[W11-blog](https://mde.tw/cd2024/blog/2024-cd-w11-practice.html)查看各週進度是否有跟上
+
 <div id="disqus_thread"></div>
 <script>
     /**

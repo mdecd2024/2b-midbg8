@@ -13,6 +13,8 @@ Author: 41023132、41039138
 
 ## NXOpen 實習項目一(分工41023132)
 
+參考上列教學影片與參考程式, 將鋼球平衡台零組件的繪製與組立任務分配給組員, 由組員分別繳交至少一份零件繪製的 NXOpen Python 程式, 以及至少一份零件組立的 NXOpen Python 程式
+
 ## 將各分組倉儲設為評分倉儲的子模組(分工41039138)
 
 ## cd2023 足球機器人網際場景模擬(分工41039138)
@@ -40,7 +42,7 @@ Author: 41023132、41039138
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("/path/to/images/1-1.jpg");
+    background-image: url("../../../images/1-1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -55,6 +57,8 @@ Author: 41023132、41039138
 <body>
   <div class="content-bg"></div>
 </body>
+
+
 
 
 
