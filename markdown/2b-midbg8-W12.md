@@ -17,7 +17,17 @@ Author: 41023132、41039138
 
 ## cd2023 足球機器人網際場景模擬
 
+模擬畫面
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jN2-4E6mAZA?si=pCos0nB49gXEIRR8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+得分畫面
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u7Wzc-2tV84?si=x0jamJuv94u7C2Gk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
