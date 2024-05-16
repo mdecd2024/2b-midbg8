@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w3</title><link href="./" rel="alternate"></link><link href="./feeds/w3.atom.xml" rel="self"></link><id>./</id><updated>2024-05-16T08:30:55+08:00</updated><entry><title>2b-midbg8協同產品設計實習-W3</title><link href="./2024-Spring-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-07T13:20:00+08:00</published><updated>2024-05-16T08:30:55+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-03-07:./2024-Spring-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w3</title><link href="./" rel="alternate"></link><link href="./feeds/w3.atom.xml" rel="self"></link><id>./</id><updated>2024-05-16T08:39:42+08:00</updated><entry><title>2b-midbg8協同產品設計實習-W3</title><link href="./2024-Spring-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-07T13:20:00+08:00</published><updated>2024-05-16T08:39:42+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-03-07:./2024-Spring-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 
 
 &lt;h1&gt;心得&lt;/h1&gt;
+&lt;p&gt;41039138: 這週利用Codespaces把自己github加入到團隊的子模組中，之後也可以利用codspaces來維護倉儲&lt;/p&gt;
 &lt;h1&gt;課程內容&lt;/h1&gt;
 &lt;h2&gt;列出期中分組倉儲和網站&lt;/h2&gt;
 &lt;p&gt;2b-midbg8倉儲:https://github.com/mdecd2024/2b-midbg8&lt;/p&gt;

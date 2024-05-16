@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w4</title><link href="./" rel="alternate"></link><link href="./feeds/w4.atom.xml" rel="self"></link><id>./</id><updated>2024-05-16T08:31:07+08:00</updated><entry><title>2b-midbg8協同產品設計實習-W4</title><link href="./2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-14T13:20:00+08:00</published><updated>2024-05-16T08:31:07+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-03-14:./2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w4</title><link href="./" rel="alternate"></link><link href="./feeds/w4.atom.xml" rel="self"></link><id>./</id><updated>2024-05-16T08:42:02+08:00</updated><entry><title>2b-midbg8協同產品設計實習-W4</title><link href="./2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-14T13:20:00+08:00</published><updated>2024-05-16T08:42:02+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-03-14:./2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 
 
 &lt;h1&gt;心得&lt;/h1&gt;
+&lt;p&gt;41039138: &lt;/p&gt;
+&lt;p&gt;今天用codspaces創建資料夾latex、images和.github/workflows並上傳資料並用git add .推好之後用Action的功能去run，之後再到.gitignore改程序碼讓他去刪除latex的臨時文檔，用好之後我們這組把已完成的翻譯用成latex傳上去，今天課程活動較上禮拜多一些，今天主要的問題是Action的ALL workflows沒有東西，後來發現我們在codespaces創資料夾的時候沒有打/workflows，結果這個錯誤讓我們用了好久。&lt;/p&gt;
 &lt;h1&gt;論文翻譯&lt;/h1&gt;
 &lt;h2&gt;工作分配&lt;/h2&gt;
 &lt;p&gt;41023132 林秉賢:P1-44&lt;/p&gt;

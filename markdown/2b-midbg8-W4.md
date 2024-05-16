@@ -14,7 +14,9 @@ Author: 41023132、41039138
 
 # 心得
 
+41039138: 
 
+今天用codspaces創建資料夾latex、images和.github/workflows並上傳資料並用git add .推好之後用Action的功能去run，之後再到.gitignore改程序碼讓他去刪除latex的臨時文檔，用好之後我們這組把已完成的翻譯用成latex傳上去，今天課程活動較上禮拜多一些，今天主要的問題是Action的ALL workflows沒有東西，後來發現我們在codespaces創資料夾的時候沒有打/workflows，結果這個錯誤讓我們用了好久。
 # 論文翻譯
 ## 工作分配
 
