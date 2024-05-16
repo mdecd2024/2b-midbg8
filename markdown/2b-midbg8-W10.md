@@ -11,6 +11,9 @@ Author: 41023132、41039138
 
 <!-- PELICAN_END_SUMMARY -->
 
+# 心得
+
+
 ## 課程活動
 ## 協同資料處理
 登入 Github 後, 連線至[classroom](https://classroom.github.com/a/AHdsc5L1)  取得對 2bstud-2bsite 的管理權限, 其中 downloads 目錄中將會有 2b.txt, 其中帶有上週取得的學員資料. 若資料有異動, 請各學員直接進入更改, 並且留下清楚的提交訊息.
