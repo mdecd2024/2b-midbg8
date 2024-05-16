@@ -11,6 +11,8 @@ Author: 41023132、41039138
 
 <!-- PELICAN_END_SUMMARY -->
 
+# 心得
+
 # 利用 Github Classroom 指定分組倉儲
 ## 分組名單
 41023132林秉賢:https://github.com/BX41023132/cd2024
