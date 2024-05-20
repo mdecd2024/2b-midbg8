@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w12</title><link href="./" rel="alternate"></link><link href="./feeds/w12.atom.xml" rel="self"></link><id>./</id><updated>2024-05-16T08:37:54+08:00</updated><entry><title>2b-midbg8協同產品設計實習-W12</title><link href="./2024-Spring-w12-blog-tutorial.html" rel="alternate"></link><published>2024-05-09T13:20:00+08:00</published><updated>2024-05-16T08:37:54+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-05-09:./2024-Spring-w12-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w12</title><link href="./" rel="alternate"></link><link href="./feeds/w12.atom.xml" rel="self"></link><id>./</id><updated>2024-05-20T12:23:19+08:00</updated><entry><title>2b-midbg8協同產品設計實習-W12</title><link href="./2024-Spring-w12-blog-tutorial.html" rel="alternate"></link><published>2024-05-09T13:20:00+08:00</published><updated>2024-05-20T12:23:19+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-05-09:./2024-Spring-w12-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 
 
 &lt;h1&gt;心得&lt;/h1&gt;
+&lt;p&gt;41023132:&lt;/p&gt;
+&lt;p&gt;這週我分配到任務一，有老師的影片輔助我覺得有很大的幫助。&lt;/p&gt;
+&lt;p&gt;這個任務可以讓我更清楚程式的應用。&lt;/p&gt;
 &lt;h2&gt;NXOpen 實習項目一(分工41023132)&lt;/h2&gt;
 &lt;p&gt;參考上列教學影片與參考程式, 將鋼球平衡台零組件的繪製與組立任務分配給組員, 由組員分別繳交至少一份零件繪製的 NXOpen Python 程式, 以及至少一份零件組立的 NXOpen Python 程式&lt;/p&gt;
 &lt;h2&gt;將各分組倉儲設為評分倉儲的子模組(分工41039138)&lt;/h2&gt;

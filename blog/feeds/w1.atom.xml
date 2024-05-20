@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w1</title><link href="./" rel="alternate"></link><link href="./feeds/w1.atom.xml" rel="self"></link><id>./</id><updated>2024-05-16T08:42:09+08:00</updated><entry><title>2b-midbg8協同產品設計實習-W1</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-22T13:20:00+08:00</published><updated>2024-05-16T08:42:09+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-02-22:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w1</title><link href="./" rel="alternate"></link><link href="./feeds/w1.atom.xml" rel="self"></link><id>./</id><updated>2024-05-20T12:17:40+08:00</updated><entry><title>2b-midbg8協同產品設計實習-W1</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-22T13:20:00+08:00</published><updated>2024-05-20T12:17:40+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-02-22:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 
 &lt;h1&gt;心得&lt;/h1&gt;
-&lt;p&gt;41023132&lt;/p&gt;
+&lt;p&gt;41023132
+第一周上課，因為是重修所以我更認真聽課，目前進度跟得上。&lt;/p&gt;
+&lt;p&gt;這周主要是介紹一些軟體的應用及上課的進度。&lt;/p&gt;
 &lt;p&gt;41039138:&lt;/p&gt;
 &lt;p&gt;今天是開學的第一堂課，我們這堂課的細節是假設自己的github帳號加入到cd2024中、將自己的網址導入 到replit中，並且設定github的雙重認證，今天的內容還算輕鬆。&lt;/p&gt;
 &lt;h1&gt;內容管理系統&lt;/h1&gt;
