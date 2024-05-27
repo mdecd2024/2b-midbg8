@@ -20,20 +20,52 @@ Author: 41023132、41039138
 這個任務可以讓我更清楚程式的應用。
 
 
+## 分工
+
+實習任務一:41023132
+
+實習任務二:41039138
+
+實習任務三:
+
+1.操控足球機器人進行競技:(41039138)
+
+2.繪製競技足球相關零件:(41023132)
 
 
 ## NXOpen 實習項目一(分工41023132)
 
 參考上列教學影片與參考程式, 將鋼球平衡台零組件的繪製與組立任務分配給組員, 由組員分別繳交至少一份零件繪製的 NXOpen Python 程式, 以及至少一份零件組立的 NXOpen Python 程式
 
+[journal](https://drive.google.com/file/d/1IBx-CXFwV4lKyex9Qmwyxa5XNOy8ObEf/view?usp=drive_link)
+
+[new](https://drive.google.com/file/d/1-Dxye8L3iQDHPwJhBmbVP7-h0Hw28K7v/view?usp=drive_link)
+
+[nxopen create a new part](https://drive.google.com/file/d/19daqSlctvkNmS5zVh8h4g70xKEczuPbH/view?usp=drive_link)
+
+
 ## 將各分組倉儲設為評分倉儲的子模組(分工41039138)
+
+[網址](https://github.com/mdecd2024/2bstud-2bsite)
+
 
 ## cd2023 足球機器人網際場景模擬(分工41039138)
 
 可到[參考連結](https://github.com/mdecd2023/2a3-pj3ag4)中，downloads\zmq_football 目錄下下載檔案
 
+### 零件
 
-模擬畫面
+[競技球](https://drive.google.com/file/d/1vBT2HPVWGzMjjmmwAjgn-W0AbagQqGMO/view?usp=drive_link)
+
+[球場](https://drive.google.com/file/d/14qBd0F_TtcKnVi-7i4sGsBO_LfSksYsO/view?usp=drive_link)
+
+[球員](https://drive.google.com/file/d/1htX1jAnFyEqV3iCdO8xW71biD8qxOj1b/view?usp=drive_link)
+
+[組合](https://drive.google.com/file/d/19_rclGE-6ZnltQxpKEDaCwBlm1txkgDo/view?usp=drive_link)
+
+
+
+###　模擬畫面
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jN2-4E6mAZA?si=pCos0nB49gXEIRR8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
