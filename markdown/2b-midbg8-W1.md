@@ -23,7 +23,7 @@ Author: 41023132、41039138
 # 內容管理系統
 使用者可以自行利用 [cmsimde_site] 倉儲作為 Template, 建立自己的網站內容管理系統.
 
-[cmsimde_site]: https://github.com/mdecycu/cmsimde_site
+[cmsimde_site](https://github.com/mdecycu/cmsimde_site)
 
 引用網站網址連結的方法:
 

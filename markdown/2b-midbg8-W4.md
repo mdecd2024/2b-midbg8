@@ -30,7 +30,7 @@ Author: 41023132、41039138
 
 41023132 林秉賢:P1-44
 
-/downloads/41023132-P1-44.pdf
+[P1-44](https://drive.google.com/file/d/1Ir5IDX28NQiox_ukMs8uV-L4gSOYt6Bo/view?usp=drive_link)
 
 41039138 凃家豐:P45-87
 
@@ -38,7 +38,7 @@ Author: 41023132、41039138
 
 完整P1-87
 
-/downloads/2b-midbg8-report.pdf
+[P1-87](https://drive.google.com/file/d/1rG2VtwTDtBKGuxzg3nfv0eUlfXpOFsT3/view?usp=drive_link)
 
 <div id="disqus_thread"></div>
 <script>
