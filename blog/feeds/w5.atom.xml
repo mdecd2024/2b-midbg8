@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w5</title><link href="./" rel="alternate"></link><link href="./feeds/w5.atom.xml" rel="self"></link><id>./</id><updated>2024-05-23T07:52:51+08:00</updated><entry><title>2b-midbg8協同產品設計實習-W5</title><link href="./2024-Spring-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-21T13:20:00+08:00</published><updated>2024-05-23T07:52:51+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-03-21:./2024-Spring-w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+=======
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w5</title><link href="./" rel="alternate"></link><link href="./feeds/w5.atom.xml" rel="self"></link><id>./</id><updated>2024-05-27T10:01:40+08:00</updated><entry><title>2b-midbg8協同產品設計實習-W5</title><link href="./2024-Spring-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-21T13:20:00+08:00</published><updated>2024-05-27T10:01:40+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-03-21:./2024-Spring-w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+>>>>>>> 6f5a1d57bd6a5a8e9c9bac4209ed44304c261206
 </summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 
 
@@ -11,8 +15,8 @@
 &lt;p&gt;經過這次的影片加字幕，某些經常跳過的細節也重新再看一次，讓我更了解其中的做法。&lt;/p&gt;
 &lt;h1&gt;上課影片整理(逐字稿+字幕)&lt;/h1&gt;
 &lt;h2&gt;工作分配(總共14個)&lt;/h2&gt;
-&lt;p&gt;41023132林秉賢:影片1-7
-41039138凃家豐:影片8-14&lt;/p&gt;
+&lt;p&gt;41023132林秉賢:&lt;a href="https://mdecd2024.github.io/2b-midbg8/content/1-7%E5%BD%B1%E7%89%87%E7%B5%B1%E6%95%B4(41023132).html"&gt;影片1-7&lt;/a&gt;
+41039138凃家豐:&lt;a href="https://mdecd2024.github.io/2b-midbg8/content/8-14%E5%BD%B1%E7%89%87%E7%B5%B1%E6%95%B4(41039138).html"&gt;影片8-14&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;利用 NX1872 協同繪製零組件&lt;/h2&gt;
 &lt;p&gt;從電腦輔助設計室中的電腦 C:\Program Files\Siemens\NX1872 取得所需的 NX 套件目錄檔案, 之後將 NX1872 目錄存入隨身碟後, 可利用下列 &lt;/p&gt;
 &lt;p&gt;start_USB_nx1872.bat 啟動.安裝 NX1872, D: 則配置 NX2206 與 NX12, 若在電腦教室則可利用下列批次檔案啟動 NX, 若在各自的電腦或隨身碟帶有各版&lt;/p&gt;

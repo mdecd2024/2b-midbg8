@@ -25,9 +25,9 @@ Author: 41023132、41039138
 
 ## 列出期中分組倉儲和網站
 
-2b-midbg8倉儲:https://github.com/mdecd2024/2b-midbg8
+[2b-midbg8倉儲](https://github.com/mdecd2024/2b-midbg8)
 
-分組網站:https://mdecd2024.github.io/2b-midbg8/
+[分組網站](https://mdecd2024.github.io/2b-midbg8/)
 
 ## Codespaces使用介紹
 由於 Github Codespaces 免費帳號目前每月可以使用 120 core hours, 因此使用者可以選擇在 Github 倉儲中編輯 markdown 目錄中的網誌 .md 文章後, 只在需要利用 pelican 轉檔或啟動編輯 config/content.htm 與轉靜態網頁內容時, 才啟用 Codespaces. 如此可以最佳化使用 Codespaces 的免費 core hours.
@@ -38,7 +38,7 @@ Gitpod 與 Codespaces 類似, 也是採用 Visual Studio Code 網際介面, 可�
 在 Gitpod 導入 Github 倉儲後, 路徑位於 /workspace/ 目錄下, 但是 .ssh 目錄則位於 /home/gitpod/.ssh, 當使用者執行 cd 則會進入 /home/gitpod 目錄, 且使用者在 Gitpod 的 Dashboard 可以從 https://gitpod.io 進入.
 
 ## 網誌網址
-https://mdecd2024.github.io/2b-midbg8/blog
+[blog](https://mdecd2024.github.io/2b-midbg8/blog)
 
 <div id="disqus_thread"></div>
 <script>

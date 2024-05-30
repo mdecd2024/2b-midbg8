@@ -54,6 +54,19 @@ Author: 41023132、41039138
 學習如何建立場景控制程式（internal Lua、Python、Remoteapi Python、IPv4 Websocket&ZMQ vs IPv6 Websocket&ZMQ)
 了解如何協同整理資料、編寫網誌、建立網際簡報及結案報告
 
+分工:
+
+1-4:41023132    5:41039138
+
+1[y link](https://drive.google.com/file/d/1d4Vug0XfPz2ExGvpVWbHs9kx1-u-VPU1/view?usp=drive_link)
+
+2[s link](https://drive.google.com/file/d/1Dv6r-_rla3Q3DiMhiXjVshK04RQG8Hyc/view?usp=drive_link)
+
+3[shaft](https://drive.google.com/file/d/1bsKtXR-mHJjv_zWGwbQsGYqpmL4LVsbx/view?usp=drive_link)
+
+4[base](https://drive.google.com/file/d/1_5Q4m5je0MN0wPjHaWeIL6yHv9x5JLo6/view?usp=drive_link)
+
+5[platform](https://drive.google.com/file/d/1zIHRIq_ERUROuSvUynqLWAY5SgbMeiN4/view?usp=drive_link)
 
 
 ## 各週指定任務

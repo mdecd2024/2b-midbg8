@@ -24,16 +24,16 @@ Author: 41023132、41039138
 
 # 利用 Github Classroom 指定分組倉儲
 ## 分組名單
-41023132林秉賢:https://github.com/BX41023132/cd2024
-41039138凃家豐:https://github.com/GUJIAFENG/cd2024
+[41023132林秉賢](https://github.com/BX41023132/cd2024)
+[41039138凃家豐](https://github.com/GUJIAFENG/cd2024)
 
 
 ## 倉儲網址
-2b 分組倉儲 classroom invitation:https://classroom.github.com/a/KJjlY-0
+[2b 分組倉儲 classroom invitation](https://classroom.github.com/a/KJjlY-0)
 
-midbg8倉儲:https://github.com/mdecd2024/2b-midbg8
+[midbg8倉儲](https://github.com/mdecd2024/2b-midbg8)
 
-分組網站:https://mdecd2024.github.io/2b-midbg8/
+[分組網站](https://mdecd2024.github.io/2b-midbg8/)
 
 <div id="disqus_thread"></div>
 <script>

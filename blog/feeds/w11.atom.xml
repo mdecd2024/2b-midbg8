@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w11</title><link href="./" rel="alternate"></link><link href="./feeds/w11.atom.xml" rel="self"></link><id>./</id><updated>2024-05-30T05:43:32+08:00</updated><entry><title>2b-midbg8協同產品設計實習-W11</title><link href="./2024-Spring-w11-blog-tutorial.html" rel="alternate"></link><published>2024-05-03T13:20:00+08:00</published><updated>2024-05-30T05:43:32+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-05-03:./2024-Spring-w11-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+=======
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w11</title><link href="./" rel="alternate"></link><link href="./feeds/w11.atom.xml" rel="self"></link><id>./</id><updated>2024-05-27T10:06:22+08:00</updated><entry><title>2b-midbg8協同產品設計實習-W11</title><link href="./2024-Spring-w11-blog-tutorial.html" rel="alternate"></link><published>2024-05-03T13:20:00+08:00</published><updated>2024-05-27T10:06:22+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-05-03:./2024-Spring-w11-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+>>>>>>> 6f5a1d57bd6a5a8e9c9bac4209ed44304c261206
 </summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 
 
@@ -33,6 +37,13 @@
 瞭解如何運用 Web-based 場景模擬串流
 學習如何建立場景控制程式（internal Lua、Python、Remoteapi Python、IPv4 Websocket&amp;amp;ZMQ vs IPv6 Websocket&amp;amp;ZMQ)
 了解如何協同整理資料、編寫網誌、建立網際簡報及結案報告&lt;/p&gt;
+&lt;p&gt;分工:&lt;/p&gt;
+&lt;p&gt;1-4:41023132    5:41039138&lt;/p&gt;
+&lt;p&gt;1&lt;a href="https://drive.google.com/file/d/1d4Vug0XfPz2ExGvpVWbHs9kx1-u-VPU1/view?usp=drive_link"&gt;y link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2&lt;a href="https://drive.google.com/file/d/1Dv6r-_rla3Q3DiMhiXjVshK04RQG8Hyc/view?usp=drive_link"&gt;s link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3&lt;a href="https://drive.google.com/file/d/1bsKtXR-mHJjv_zWGwbQsGYqpmL4LVsbx/view?usp=drive_link"&gt;shaft&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;4&lt;a href="https://drive.google.com/file/d/1_5Q4m5je0MN0wPjHaWeIL6yHv9x5JLo6/view?usp=drive_link"&gt;base&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;5&lt;a href="https://drive.google.com/file/d/1zIHRIq_ERUROuSvUynqLWAY5SgbMeiN4/view?usp=drive_link"&gt;platform&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;各週指定任務&lt;/h2&gt;
 &lt;p&gt;到&lt;a href="https://mde.tw/cd2024/blog/2024-cd-w11-practice.html"&gt;W11-blog&lt;/a&gt;查看各週進度是否有跟上&lt;/p&gt;
 &lt;div id="disqus_thread"&gt;&lt;/div&gt;

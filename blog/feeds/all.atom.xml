@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-30T05:44:50+08:00</updated><entry><title>2b-midbg8協同產品設計實習-W13</title><link href="./2024-Spring-w13-blog-tutorial.html" rel="alternate"></link><published>2024-05-16T13:20:00+08:00</published><updated>2024-05-30T05:44:50+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-05-16:./2024-Spring-w13-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+=======
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-27T10:11:32+08:00</updated><entry><title>2b-midbg8協同產品設計實習-W13</title><link href="./2024-Spring-w13-blog-tutorial.html" rel="alternate"></link><published>2024-05-16T13:20:00+08:00</published><updated>2024-05-16T08:34:01+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-05-16:./2024-Spring-w13-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+>>>>>>> 6f5a1d57bd6a5a8e9c9bac4209ed44304c261206
 </summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 
 
@@ -35,7 +39,11 @@
     (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
+<<<<<<< HEAD
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w13"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W12</title><link href="./2024-Spring-w12-blog-tutorial.html" rel="alternate"></link><published>2024-05-09T13:20:00+08:00</published><updated>2024-05-30T05:44:10+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-05-09:./2024-Spring-w12-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+=======
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w13"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W12</title><link href="./2024-Spring-w12-blog-tutorial.html" rel="alternate"></link><published>2024-05-09T13:20:00+08:00</published><updated>2024-05-27T10:11:32+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-05-09:./2024-Spring-w12-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+>>>>>>> 6f5a1d57bd6a5a8e9c9bac4209ed44304c261206
 </summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 
 
@@ -43,16 +51,34 @@
 &lt;p&gt;41023132:&lt;/p&gt;
 &lt;p&gt;這週我分配到任務一，有老師的影片輔助我覺得有很大的幫助。&lt;/p&gt;
 &lt;p&gt;這個任務可以讓我更清楚程式的應用。&lt;/p&gt;
+<<<<<<< HEAD
 &lt;p&gt;41039138:&lt;/p&gt;
 &lt;p&gt;這次作業要用足球機器人網際場景模擬，但下載後，第一次模擬沒有成功他出現找不到要import的資料夾，後來我就重新創&lt;/p&gt;
 &lt;p&gt;了資料夾和放入相關的檔案而且檔名是跟程式一樣的，但還是失敗，最後我乾脆在重用一次，然後就成功的，之後就錄成影&lt;/p&gt;
 &lt;p&gt;片傳上去。&lt;/p&gt;
+=======
+&lt;h2&gt;分工&lt;/h2&gt;
+&lt;p&gt;實習任務一:41023132&lt;/p&gt;
+&lt;p&gt;實習任務二:41039138&lt;/p&gt;
+&lt;p&gt;實習任務三:&lt;/p&gt;
+&lt;p&gt;1.操控足球機器人進行競技:(41039138)&lt;/p&gt;
+&lt;p&gt;2.繪製競技足球相關零件:(41023132)&lt;/p&gt;
+>>>>>>> 6f5a1d57bd6a5a8e9c9bac4209ed44304c261206
 &lt;h2&gt;NXOpen 實習項目一(分工41023132)&lt;/h2&gt;
 &lt;p&gt;參考上列教學影片與參考程式, 將鋼球平衡台零組件的繪製與組立任務分配給組員, 由組員分別繳交至少一份零件繪製的 NXOpen Python 程式, 以及至少一份零件組立的 NXOpen Python 程式&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/1IBx-CXFwV4lKyex9Qmwyxa5XNOy8ObEf/view?usp=drive_link"&gt;journal&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/1-Dxye8L3iQDHPwJhBmbVP7-h0Hw28K7v/view?usp=drive_link"&gt;new&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/19daqSlctvkNmS5zVh8h4g70xKEczuPbH/view?usp=drive_link"&gt;nxopen create a new part&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;將各分組倉儲設為評分倉儲的子模組(分工41039138)&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://github.com/mdecd2024/2bstud-2bsite"&gt;網址&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;cd2023 足球機器人網際場景模擬(分工41039138)&lt;/h2&gt;
 &lt;p&gt;可到&lt;a href="https://github.com/mdecd2023/2a3-pj3ag4"&gt;參考連結&lt;/a&gt;中，downloads\zmq_football 目錄下下載檔案&lt;/p&gt;
-&lt;p&gt;模擬畫面&lt;/p&gt;
+&lt;h3&gt;零件&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/1vBT2HPVWGzMjjmmwAjgn-W0AbagQqGMO/view?usp=drive_link"&gt;競技球&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/14qBd0F_TtcKnVi-7i4sGsBO_LfSksYsO/view?usp=drive_link"&gt;球場&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/1htX1jAnFyEqV3iCdO8xW71biD8qxOj1b/view?usp=drive_link"&gt;球員&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/19_rclGE-6ZnltQxpKEDaCwBlm1txkgDo/view?usp=drive_link"&gt;組合&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;模擬畫面&lt;/h3&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jN2-4E6mAZA?si=pCos0nB49gXEIRR8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;得分畫面&lt;/p&gt;
@@ -99,7 +125,11 @@
     (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
+<<<<<<< HEAD
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w12"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W11</title><link href="./2024-Spring-w11-blog-tutorial.html" rel="alternate"></link><published>2024-05-03T13:20:00+08:00</published><updated>2024-05-30T05:43:32+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-05-03:./2024-Spring-w11-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+=======
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w12"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W11</title><link href="./2024-Spring-w11-blog-tutorial.html" rel="alternate"></link><published>2024-05-03T13:20:00+08:00</published><updated>2024-05-27T10:06:22+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-05-03:./2024-Spring-w11-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+>>>>>>> 6f5a1d57bd6a5a8e9c9bac4209ed44304c261206
 </summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 
 
@@ -133,6 +163,13 @@
 瞭解如何運用 Web-based 場景模擬串流
 學習如何建立場景控制程式（internal Lua、Python、Remoteapi Python、IPv4 Websocket&amp;amp;ZMQ vs IPv6 Websocket&amp;amp;ZMQ)
 了解如何協同整理資料、編寫網誌、建立網際簡報及結案報告&lt;/p&gt;
+&lt;p&gt;分工:&lt;/p&gt;
+&lt;p&gt;1-4:41023132    5:41039138&lt;/p&gt;
+&lt;p&gt;1&lt;a href="https://drive.google.com/file/d/1d4Vug0XfPz2ExGvpVWbHs9kx1-u-VPU1/view?usp=drive_link"&gt;y link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2&lt;a href="https://drive.google.com/file/d/1Dv6r-_rla3Q3DiMhiXjVshK04RQG8Hyc/view?usp=drive_link"&gt;s link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3&lt;a href="https://drive.google.com/file/d/1bsKtXR-mHJjv_zWGwbQsGYqpmL4LVsbx/view?usp=drive_link"&gt;shaft&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;4&lt;a href="https://drive.google.com/file/d/1_5Q4m5je0MN0wPjHaWeIL6yHv9x5JLo6/view?usp=drive_link"&gt;base&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;5&lt;a href="https://drive.google.com/file/d/1zIHRIq_ERUROuSvUynqLWAY5SgbMeiN4/view?usp=drive_link"&gt;platform&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;各週指定任務&lt;/h2&gt;
 &lt;p&gt;到&lt;a href="https://mde.tw/cd2024/blog/2024-cd-w11-practice.html"&gt;W11-blog&lt;/a&gt;查看各週進度是否有跟上&lt;/p&gt;
 &lt;div id="disqus_thread"&gt;&lt;/div&gt;
@@ -391,7 +428,11 @@ config/content.htm 以及 markdown/*.md 檔案至分組網站中&lt;/p&gt;
     (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
+<<<<<<< HEAD
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w6"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W5</title><link href="./2024-Spring-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-21T13:20:00+08:00</published><updated>2024-05-23T07:52:51+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-03-21:./2024-Spring-w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+=======
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w6"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W5</title><link href="./2024-Spring-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-21T13:20:00+08:00</published><updated>2024-05-27T10:01:40+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-03-21:./2024-Spring-w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+>>>>>>> 6f5a1d57bd6a5a8e9c9bac4209ed44304c261206
 </summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 
 
@@ -403,8 +444,8 @@ config/content.htm 以及 markdown/*.md 檔案至分組網站中&lt;/p&gt;
 &lt;p&gt;經過這次的影片加字幕，某些經常跳過的細節也重新再看一次，讓我更了解其中的做法。&lt;/p&gt;
 &lt;h1&gt;上課影片整理(逐字稿+字幕)&lt;/h1&gt;
 &lt;h2&gt;工作分配(總共14個)&lt;/h2&gt;
-&lt;p&gt;41023132林秉賢:影片1-7
-41039138凃家豐:影片8-14&lt;/p&gt;
+&lt;p&gt;41023132林秉賢:&lt;a href="https://mdecd2024.github.io/2b-midbg8/content/1-7%E5%BD%B1%E7%89%87%E7%B5%B1%E6%95%B4(41023132).html"&gt;影片1-7&lt;/a&gt;
+41039138凃家豐:&lt;a href="https://mdecd2024.github.io/2b-midbg8/content/8-14%E5%BD%B1%E7%89%87%E7%B5%B1%E6%95%B4(41039138).html"&gt;影片8-14&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;利用 NX1872 協同繪製零組件&lt;/h2&gt;
 &lt;p&gt;從電腦輔助設計室中的電腦 C:\Program Files\Siemens\NX1872 取得所需的 NX 套件目錄檔案, 之後將 NX1872 目錄存入隨身碟後, 可利用下列 &lt;/p&gt;
 &lt;p&gt;start_USB_nx1872.bat 啟動.安裝 NX1872, D: 則配置 NX2206 與 NX12, 若在電腦教室則可利用下列批次檔案啟動 NX, 若在各自的電腦或隨身碟帶有各版&lt;/p&gt;
@@ -427,7 +468,11 @@ config/content.htm 以及 markdown/*.md 檔案至分組網站中&lt;/p&gt;
     (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
+<<<<<<< HEAD
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w5"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W4</title><link href="./2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-14T13:20:00+08:00</published><updated>2024-05-23T07:52:51+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-03-14:./2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+=======
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w5"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W4</title><link href="./2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-14T13:20:00+08:00</published><updated>2024-05-27T10:00:43+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-03-14:./2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+>>>>>>> 6f5a1d57bd6a5a8e9c9bac4209ed44304c261206
 </summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 
 
@@ -441,11 +486,11 @@ config/content.htm 以及 markdown/*.md 檔案至分組網站中&lt;/p&gt;
 &lt;h1&gt;論文翻譯&lt;/h1&gt;
 &lt;h2&gt;工作分配&lt;/h2&gt;
 &lt;p&gt;41023132 林秉賢:P1-44&lt;/p&gt;
-&lt;p&gt;/downloads/41023132-P1-44.pdf&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/1Ir5IDX28NQiox_ukMs8uV-L4gSOYt6Bo/view?usp=drive_link"&gt;P1-44&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;41039138 凃家豐:P45-87&lt;/p&gt;
 &lt;p&gt;/downloads/latex2.pdf&lt;/p&gt;
 &lt;p&gt;完整P1-87&lt;/p&gt;
-&lt;p&gt;/downloads/2b-midbg8-report.pdf&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/1rG2VtwTDtBKGuxzg3nfv0eUlfXpOFsT3/view?usp=drive_link"&gt;P1-87&lt;/a&gt;&lt;/p&gt;
 &lt;div id="disqus_thread"&gt;&lt;/div&gt;
 &lt;script&gt;
     /**
@@ -464,7 +509,11 @@ config/content.htm 以及 markdown/*.md 檔案至分組網站中&lt;/p&gt;
     (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
+<<<<<<< HEAD
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W3</title><link href="./2024-Spring-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-07T13:20:00+08:00</published><updated>2024-05-23T07:52:51+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-03-07:./2024-Spring-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+=======
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W3</title><link href="./2024-Spring-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-07T13:20:00+08:00</published><updated>2024-05-27T09:59:52+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-03-07:./2024-Spring-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+>>>>>>> 6f5a1d57bd6a5a8e9c9bac4209ed44304c261206
 </summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 
 
@@ -475,15 +524,15 @@ config/content.htm 以及 markdown/*.md 檔案至分組網站中&lt;/p&gt;
 &lt;p&gt;並需要列出分組倉儲及網站。&lt;/p&gt;
 &lt;h1&gt;課程內容&lt;/h1&gt;
 &lt;h2&gt;列出期中分組倉儲和網站&lt;/h2&gt;
-&lt;p&gt;2b-midbg8倉儲:https://github.com/mdecd2024/2b-midbg8&lt;/p&gt;
-&lt;p&gt;分組網站:https://mdecd2024.github.io/2b-midbg8/&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/mdecd2024/2b-midbg8"&gt;2b-midbg8倉儲&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://mdecd2024.github.io/2b-midbg8/"&gt;分組網站&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Codespaces使用介紹&lt;/h2&gt;
 &lt;p&gt;由於 Github Codespaces 免費帳號目前每月可以使用 120 core hours, 因此使用者可以選擇在 Github 倉儲中編輯 markdown 目錄中的網誌 .md 文章後, 只在需要利用 pelican 轉檔或啟動編輯 config/content.htm 與轉靜態網頁內容時, 才啟用 Codespaces. 如此可以最佳化使用 Codespaces 的免費 core hours.&lt;/p&gt;
 &lt;h2&gt;使用GitPod維護倉儲網站&lt;/h2&gt;
 &lt;p&gt;Gitpod 與 Codespaces 類似, 也是採用 Visual Studio Code 網際介面, 可讓使用者維護位於 Github 的倉儲, 只是個人的 cd2024 倉儲, 以 Github 帳號登入 Gitpod 之後, 可以直接維護, 但是分組網站是從 Github Classroom mdecd2024 帳號下派任, 與 Replit 環境維護分組網站的方法相同, 必須自行建立 .ssh 下的 id_rsa 與 config, 差別是一旦在 Gitpod 導入的分組網站 SSH 管理權限, 不會像 Replit 免費帳號下, 系統會定期刪除免費帳號使用者的 .ssh 目錄.&lt;/p&gt;
 &lt;p&gt;在 Gitpod 導入 Github 倉儲後, 路徑位於 /workspace/ 目錄下, 但是 .ssh 目錄則位於 /home/gitpod/.ssh, 當使用者執行 cd 則會進入 /home/gitpod 目錄, 且使用者在 Gitpod 的 Dashboard 可以從 https://gitpod.io 進入.&lt;/p&gt;
 &lt;h2&gt;網誌網址&lt;/h2&gt;
-&lt;p&gt;https://mdecd2024.github.io/2b-midbg8/blog&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://mdecd2024.github.io/2b-midbg8/blog"&gt;blog&lt;/a&gt;&lt;/p&gt;
 &lt;div id="disqus_thread"&gt;&lt;/div&gt;
 &lt;script&gt;
     /**
@@ -502,7 +551,11 @@ config/content.htm 以及 markdown/*.md 檔案至分組網站中&lt;/p&gt;
     (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
+<<<<<<< HEAD
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W2</title><link href="./2024-Spring-w2-blog-tutorial.html" rel="alternate"></link><published>2024-02-29T13:20:00+08:00</published><updated>2024-05-23T07:52:51+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-02-29:./2024-Spring-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+=======
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W2</title><link href="./2024-Spring-w2-blog-tutorial.html" rel="alternate"></link><published>2024-02-29T13:20:00+08:00</published><updated>2024-05-27T09:59:09+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-02-29:./2024-Spring-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+>>>>>>> 6f5a1d57bd6a5a8e9c9bac4209ed44304c261206
 </summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 
 
@@ -514,12 +567,12 @@ config/content.htm 以及 markdown/*.md 檔案至分組網站中&lt;/p&gt;
 &lt;p&gt;成功加入Classroom、分組倉儲。&lt;/p&gt;
 &lt;h1&gt;利用 Github Classroom 指定分組倉儲&lt;/h1&gt;
 &lt;h2&gt;分組名單&lt;/h2&gt;
-&lt;p&gt;41023132林秉賢:https://github.com/BX41023132/cd2024
-41039138凃家豐:https://github.com/GUJIAFENG/cd2024&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/BX41023132/cd2024"&gt;41023132林秉賢&lt;/a&gt;
+&lt;a href="https://github.com/GUJIAFENG/cd2024"&gt;41039138凃家豐&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;倉儲網址&lt;/h2&gt;
-&lt;p&gt;2b 分組倉儲 classroom invitation:https://classroom.github.com/a/KJjlY-0&lt;/p&gt;
-&lt;p&gt;midbg8倉儲:https://github.com/mdecd2024/2b-midbg8&lt;/p&gt;
-&lt;p&gt;分組網站:https://mdecd2024.github.io/2b-midbg8/&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://classroom.github.com/a/KJjlY-0"&gt;2b 分組倉儲 classroom invitation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/mdecd2024/2b-midbg8"&gt;midbg8倉儲&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://mdecd2024.github.io/2b-midbg8/"&gt;分組網站&lt;/a&gt;&lt;/p&gt;
 &lt;div id="disqus_thread"&gt;&lt;/div&gt;
 &lt;script&gt;
     /**
@@ -538,7 +591,11 @@ config/content.htm 以及 markdown/*.md 檔案至分組網站中&lt;/p&gt;
     (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
+<<<<<<< HEAD
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W1</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-22T13:20:00+08:00</published><updated>2024-05-23T07:52:51+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-02-22:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+=======
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W1</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-22T13:20:00+08:00</published><updated>2024-05-27T09:57:58+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-02-22:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+>>>>>>> 6f5a1d57bd6a5a8e9c9bac4209ed44304c261206
 </summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 
 &lt;h1&gt;心得&lt;/h1&gt;
@@ -548,9 +605,10 @@ config/content.htm 以及 markdown/*.md 檔案至分組網站中&lt;/p&gt;
 &lt;p&gt;41039138:&lt;/p&gt;
 &lt;p&gt;今天是開學的第一堂課，我們這堂課的細節是假設自己的github帳號加入到cd2024中、將自己的網址導入 到replit中，並且設定github的雙重認證，今天的內容還算輕鬆。&lt;/p&gt;
 &lt;h1&gt;內容管理系統&lt;/h1&gt;
-&lt;p&gt;使用者可以自行利用 &lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt; 倉儲作為 Template, 建立自己的網站內容管理系統.&lt;/p&gt;
+&lt;p&gt;使用者可以自行利用 [cmsimde_site] 倉儲作為 Template, 建立自己的網站內容管理系統.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;引用網站網址連結的方法:&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt; - 在文章中多次引用同一個網站連結時, 可以使用此種方法.&lt;/p&gt;
+&lt;p&gt;[cmsimde_site] - 在文章中多次引用同一個網站連結時, 可以使用此種方法.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;https://github.com/mdecycu/cmsimde_site&lt;/a&gt; - 假如想要快速將網址套用 html 網站連結, 可以使用此種方法.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt; - 也可以使用 Markdown 的標準網站連結使用格式.&lt;/p&gt;
 &lt;pre class="brush: python"&gt;

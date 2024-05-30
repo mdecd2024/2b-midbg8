@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w2</title><link href="./" rel="alternate"></link><link href="./feeds/w2.atom.xml" rel="self"></link><id>./</id><updated>2024-05-23T07:52:51+08:00</updated><entry><title>2b-midbg8協同產品設計實習-W2</title><link href="./2024-Spring-w2-blog-tutorial.html" rel="alternate"></link><published>2024-02-29T13:20:00+08:00</published><updated>2024-05-23T07:52:51+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-02-29:./2024-Spring-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+=======
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w2</title><link href="./" rel="alternate"></link><link href="./feeds/w2.atom.xml" rel="self"></link><id>./</id><updated>2024-05-27T09:59:09+08:00</updated><entry><title>2b-midbg8協同產品設計實習-W2</title><link href="./2024-Spring-w2-blog-tutorial.html" rel="alternate"></link><published>2024-02-29T13:20:00+08:00</published><updated>2024-05-27T09:59:09+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-02-29:./2024-Spring-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+>>>>>>> 6f5a1d57bd6a5a8e9c9bac4209ed44304c261206
 </summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 
 
@@ -11,12 +15,12 @@
 &lt;p&gt;成功加入Classroom、分組倉儲。&lt;/p&gt;
 &lt;h1&gt;利用 Github Classroom 指定分組倉儲&lt;/h1&gt;
 &lt;h2&gt;分組名單&lt;/h2&gt;
-&lt;p&gt;41023132林秉賢:https://github.com/BX41023132/cd2024
-41039138凃家豐:https://github.com/GUJIAFENG/cd2024&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/BX41023132/cd2024"&gt;41023132林秉賢&lt;/a&gt;
+&lt;a href="https://github.com/GUJIAFENG/cd2024"&gt;41039138凃家豐&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;倉儲網址&lt;/h2&gt;
-&lt;p&gt;2b 分組倉儲 classroom invitation:https://classroom.github.com/a/KJjlY-0&lt;/p&gt;
-&lt;p&gt;midbg8倉儲:https://github.com/mdecd2024/2b-midbg8&lt;/p&gt;
-&lt;p&gt;分組網站:https://mdecd2024.github.io/2b-midbg8/&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://classroom.github.com/a/KJjlY-0"&gt;2b 分組倉儲 classroom invitation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/mdecd2024/2b-midbg8"&gt;midbg8倉儲&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://mdecd2024.github.io/2b-midbg8/"&gt;分組網站&lt;/a&gt;&lt;/p&gt;
 &lt;div id="disqus_thread"&gt;&lt;/div&gt;
 &lt;script&gt;
     /**
