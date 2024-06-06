@@ -15,6 +15,13 @@ Author: 41023132、41039138
 
 41039138:今天把接頭都用好了，確認可以轉了，之後就剩下motor旋轉時其他的零件不會跟他一起轉，現在的motor是旋轉360度的。
 
+41023132:
+
+今天再組裝鋼球平衡台，因為不熟悉NX，所以重新錄了好幾遍，
+
+可是都沒有存起來，聽到老師說可以都存起來，當作有做的證明後，
+
+之後的影片都有儲存。只能說NX就是需要熟能生巧。
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gPgQClVcBts?si=Y9bj1ndgDbd9VhGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
