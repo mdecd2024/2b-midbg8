@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-06T06:13:54+08:00</updated><entry><title>2b-midbg8協同產品設計實習-W13</title><link href="./2024-Spring-w13-blog-tutorial.html" rel="alternate"></link><published>2024-05-16T13:20:00+08:00</published><updated>2024-06-06T06:13:12+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-05-16:./2024-Spring-w13-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-06T07:19:34+08:00</updated><entry><title>2b-midbg8協同產品設計實習-W15</title><link href="./2024-Spring-w15-blog-tutorial.html" rel="alternate"></link><published>2024-05-30T13:20:00+08:00</published><updated>2024-06-06T07:19:34+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-05-30:./2024-Spring-w15-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+
+
+&lt;h1&gt;心得&lt;/h1&gt;
+&lt;p&gt;41039138:今天把接頭都用好了，確認可以轉了，之後就剩下motor旋轉時其他的零件不會跟他一起轉，現在的motor是旋轉360度的。&lt;/p&gt;
+&lt;p&gt;41023132:&lt;/p&gt;
+&lt;p&gt;今天再組裝鋼球平衡台，因為不熟悉NX，所以重新錄了好幾遍，&lt;/p&gt;
+&lt;p&gt;可是都沒有存起來，聽到老師說可以都存起來，當作有做的證明後，&lt;/p&gt;
+&lt;p&gt;之後的影片都有儲存。只能說NX就是需要熟能生巧。&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/gPgQClVcBts?si=Y9bj1ndgDbd9VhGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;div id="disqus_thread"&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://blog-1-4.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w15"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W13</title><link href="./2024-Spring-w13-blog-tutorial.html" rel="alternate"></link><published>2024-05-16T13:20:00+08:00</published><updated>2024-06-06T06:13:12+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-05-16:./2024-Spring-w13-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 
 
