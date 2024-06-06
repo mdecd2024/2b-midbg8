@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<<<<<<< HEAD
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-30T05:44:50+08:00</updated><entry><title>2b-midbg8協同產品設計實習-W13</title><link href="./2024-Spring-w13-blog-tutorial.html" rel="alternate"></link><published>2024-05-16T13:20:00+08:00</published><updated>2024-05-30T05:44:50+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-05-16:./2024-Spring-w13-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
-=======
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-27T10:11:32+08:00</updated><entry><title>2b-midbg8協同產品設計實習-W13</title><link href="./2024-Spring-w13-blog-tutorial.html" rel="alternate"></link><published>2024-05-16T13:20:00+08:00</published><updated>2024-05-16T08:34:01+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-05-16:./2024-Spring-w13-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
->>>>>>> 6f5a1d57bd6a5a8e9c9bac4209ed44304c261206
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-06T06:13:54+08:00</updated><entry><title>2b-midbg8協同產品設計實習-W13</title><link href="./2024-Spring-w13-blog-tutorial.html" rel="alternate"></link><published>2024-05-16T13:20:00+08:00</published><updated>2024-06-06T06:13:12+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-05-16:./2024-Spring-w13-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 
 
 &lt;h1&gt;心得&lt;/h1&gt;
 &lt;p&gt;41039138:&lt;/p&gt;
 &lt;p&gt;這禮拜老師在blog中列出了每周實習任務和評分標準，後來發現我們缺少了期中報告，之後我們會再補上。&lt;/p&gt;
+&lt;p&gt;41023132:&lt;/p&gt;
+&lt;p&gt;這禮拜開始我們開始用期末的報告製作，我主要是畫零件的。&lt;/p&gt;
 &lt;h1&gt;課程評分:&lt;/h1&gt;
 &lt;h2&gt;學員每週編寫網誌內容佔 40%&lt;/h2&gt;
 &lt;p&gt;每週上課內容摘要與分組報告執行分工及進度整理&lt;/p&gt;
@@ -39,11 +37,7 @@
     (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
-<<<<<<< HEAD
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w13"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W12</title><link href="./2024-Spring-w12-blog-tutorial.html" rel="alternate"></link><published>2024-05-09T13:20:00+08:00</published><updated>2024-05-30T05:44:10+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-05-09:./2024-Spring-w12-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
-=======
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w13"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W12</title><link href="./2024-Spring-w12-blog-tutorial.html" rel="alternate"></link><published>2024-05-09T13:20:00+08:00</published><updated>2024-05-27T10:11:32+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-05-09:./2024-Spring-w12-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
->>>>>>> 6f5a1d57bd6a5a8e9c9bac4209ed44304c261206
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w13"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W12</title><link href="./2024-Spring-w12-blog-tutorial.html" rel="alternate"></link><published>2024-05-09T13:20:00+08:00</published><updated>2024-06-06T06:03:06+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-05-09:./2024-Spring-w12-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 
 
@@ -51,19 +45,16 @@
 &lt;p&gt;41023132:&lt;/p&gt;
 &lt;p&gt;這週我分配到任務一，有老師的影片輔助我覺得有很大的幫助。&lt;/p&gt;
 &lt;p&gt;這個任務可以讓我更清楚程式的應用。&lt;/p&gt;
-<<<<<<< HEAD
 &lt;p&gt;41039138:&lt;/p&gt;
 &lt;p&gt;這次作業要用足球機器人網際場景模擬，但下載後，第一次模擬沒有成功他出現找不到要import的資料夾，後來我就重新創&lt;/p&gt;
 &lt;p&gt;了資料夾和放入相關的檔案而且檔名是跟程式一樣的，但還是失敗，最後我乾脆在重用一次，然後就成功的，之後就錄成影&lt;/p&gt;
 &lt;p&gt;片傳上去。&lt;/p&gt;
-=======
 &lt;h2&gt;分工&lt;/h2&gt;
 &lt;p&gt;實習任務一:41023132&lt;/p&gt;
 &lt;p&gt;實習任務二:41039138&lt;/p&gt;
 &lt;p&gt;實習任務三:&lt;/p&gt;
 &lt;p&gt;1.操控足球機器人進行競技:(41039138)&lt;/p&gt;
 &lt;p&gt;2.繪製競技足球相關零件:(41023132)&lt;/p&gt;
->>>>>>> 6f5a1d57bd6a5a8e9c9bac4209ed44304c261206
 &lt;h2&gt;NXOpen 實習項目一(分工41023132)&lt;/h2&gt;
 &lt;p&gt;參考上列教學影片與參考程式, 將鋼球平衡台零組件的繪製與組立任務分配給組員, 由組員分別繳交至少一份零件繪製的 NXOpen Python 程式, 以及至少一份零件組立的 NXOpen Python 程式&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://drive.google.com/file/d/1IBx-CXFwV4lKyex9Qmwyxa5XNOy8ObEf/view?usp=drive_link"&gt;journal&lt;/a&gt;&lt;/p&gt;
@@ -125,11 +116,7 @@
     (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
-<<<<<<< HEAD
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w12"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W11</title><link href="./2024-Spring-w11-blog-tutorial.html" rel="alternate"></link><published>2024-05-03T13:20:00+08:00</published><updated>2024-05-30T05:43:32+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-05-03:./2024-Spring-w11-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
-=======
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w12"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W11</title><link href="./2024-Spring-w11-blog-tutorial.html" rel="alternate"></link><published>2024-05-03T13:20:00+08:00</published><updated>2024-05-27T10:06:22+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-05-03:./2024-Spring-w11-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
->>>>>>> 6f5a1d57bd6a5a8e9c9bac4209ed44304c261206
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w12"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W11</title><link href="./2024-Spring-w11-blog-tutorial.html" rel="alternate"></link><published>2024-05-03T13:20:00+08:00</published><updated>2024-06-06T06:03:06+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-05-03:./2024-Spring-w11-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 
 
@@ -190,7 +177,7 @@
     (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w11"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W10</title><link href="./2024-Spring-w10-blog-tutorial.html" rel="alternate"></link><published>2024-04-25T13:20:00+08:00</published><updated>2024-05-30T05:42:19+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-04-25:./2024-Spring-w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w11"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W10</title><link href="./2024-Spring-w10-blog-tutorial.html" rel="alternate"></link><published>2024-04-25T13:20:00+08:00</published><updated>2024-06-06T06:03:06+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-04-25:./2024-Spring-w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 
 
@@ -263,7 +250,7 @@
     (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w10"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W9</title><link href="./2024-Spring-w9-blog-tutorial.html" rel="alternate"></link><published>2024-04-18T13:20:00+08:00</published><updated>2024-05-23T07:52:51+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-04-18:./2024-Spring-w9-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w10"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W9</title><link href="./2024-Spring-w9-blog-tutorial.html" rel="alternate"></link><published>2024-04-18T13:20:00+08:00</published><updated>2024-05-20T12:21:51+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-04-18:./2024-Spring-w9-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 
 
@@ -293,12 +280,11 @@
     (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w9"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W8</title><link href="./2024-Spring-w8-blog-tutorial.html" rel="alternate"></link><published>2024-04-11T13:20:00+08:00</published><updated>2024-05-16T08:37:54+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-04-11:./2024-Spring-w8-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w9"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W8</title><link href="./2024-Spring-w8-blog-tutorial.html" rel="alternate"></link><published>2024-04-11T13:20:00+08:00</published><updated>2024-06-06T06:13:44+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-04-11:./2024-Spring-w8-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 
 
-&lt;h1&gt;心得&lt;/h1&gt;
-&lt;h2&gt;課程活動&lt;/h2&gt;
+&lt;h1&gt;課程活動&lt;/h1&gt;
 &lt;h1&gt;檢查之前進度是否跟上&lt;/h1&gt;
 &lt;div id="disqus_thread"&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -318,13 +304,10 @@
     (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w8"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W7</title><link href="./2024-Spring-w7-blog-tutorial.html" rel="alternate"></link><published>2024-04-04T13:20:00+08:00</published><updated>2024-05-23T07:52:51+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-04-04:./2024-Spring-w7-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w8"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W7</title><link href="./2024-Spring-w7-blog-tutorial.html" rel="alternate"></link><published>2024-04-04T13:20:00+08:00</published><updated>2024-06-06T06:13:54+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-04-04:./2024-Spring-w7-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 
 
-&lt;h1&gt;心得&lt;/h1&gt;
-&lt;p&gt;41039138:&lt;/p&gt;
-&lt;p&gt;41023132:&lt;/p&gt;
 &lt;h1&gt;課程內容&lt;/h1&gt;
 &lt;h2&gt;內容管理系統&lt;/h2&gt;
 &lt;p&gt;本課程採 Github Classroom 建立分組倉儲, 並由學員自行利用 cmsimde_site 作為 Github 倉儲的引擎目錄, 利用 Python 執行網頁編輯. 之後再轉檔為&lt;/p&gt;
@@ -380,7 +363,7 @@ config/content.htm 以及 markdown/*.md 檔案至分組網站中&lt;/p&gt;
     (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w7"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W6</title><link href="./2024-Spring-w6-blog-tutorial.html" rel="alternate"></link><published>2024-03-28T13:20:00+08:00</published><updated>2024-05-23T07:52:51+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-03-28:./2024-Spring-w6-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w7"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W6</title><link href="./2024-Spring-w6-blog-tutorial.html" rel="alternate"></link><published>2024-03-28T13:20:00+08:00</published><updated>2024-05-20T12:21:08+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-03-28:./2024-Spring-w6-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 
 
@@ -428,11 +411,7 @@ config/content.htm 以及 markdown/*.md 檔案至分組網站中&lt;/p&gt;
     (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
-<<<<<<< HEAD
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w6"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W5</title><link href="./2024-Spring-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-21T13:20:00+08:00</published><updated>2024-05-23T07:52:51+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-03-21:./2024-Spring-w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
-=======
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w6"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W5</title><link href="./2024-Spring-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-21T13:20:00+08:00</published><updated>2024-05-27T10:01:40+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-03-21:./2024-Spring-w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
->>>>>>> 6f5a1d57bd6a5a8e9c9bac4209ed44304c261206
 </summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 
 
@@ -468,11 +447,7 @@ config/content.htm 以及 markdown/*.md 檔案至分組網站中&lt;/p&gt;
     (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
-<<<<<<< HEAD
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w5"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W4</title><link href="./2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-14T13:20:00+08:00</published><updated>2024-05-23T07:52:51+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-03-14:./2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
-=======
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w5"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W4</title><link href="./2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-14T13:20:00+08:00</published><updated>2024-05-27T10:00:43+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-03-14:./2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
->>>>>>> 6f5a1d57bd6a5a8e9c9bac4209ed44304c261206
 </summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 
 
@@ -509,11 +484,7 @@ config/content.htm 以及 markdown/*.md 檔案至分組網站中&lt;/p&gt;
     (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
-<<<<<<< HEAD
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W3</title><link href="./2024-Spring-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-07T13:20:00+08:00</published><updated>2024-05-23T07:52:51+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-03-07:./2024-Spring-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
-=======
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W3</title><link href="./2024-Spring-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-07T13:20:00+08:00</published><updated>2024-05-27T09:59:52+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-03-07:./2024-Spring-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
->>>>>>> 6f5a1d57bd6a5a8e9c9bac4209ed44304c261206
 </summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 
 
@@ -551,11 +522,7 @@ config/content.htm 以及 markdown/*.md 檔案至分組網站中&lt;/p&gt;
     (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
-<<<<<<< HEAD
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W2</title><link href="./2024-Spring-w2-blog-tutorial.html" rel="alternate"></link><published>2024-02-29T13:20:00+08:00</published><updated>2024-05-23T07:52:51+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-02-29:./2024-Spring-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
-=======
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W2</title><link href="./2024-Spring-w2-blog-tutorial.html" rel="alternate"></link><published>2024-02-29T13:20:00+08:00</published><updated>2024-05-27T09:59:09+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-02-29:./2024-Spring-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
->>>>>>> 6f5a1d57bd6a5a8e9c9bac4209ed44304c261206
 </summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 
 
@@ -591,11 +558,7 @@ config/content.htm 以及 markdown/*.md 檔案至分組網站中&lt;/p&gt;
     (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
-<<<<<<< HEAD
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W1</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-22T13:20:00+08:00</published><updated>2024-05-23T07:52:51+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-02-22:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
-=======
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W1</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-22T13:20:00+08:00</published><updated>2024-05-27T09:57:58+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-02-22:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
->>>>>>> 6f5a1d57bd6a5a8e9c9bac4209ed44304c261206
 </summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 
 &lt;h1&gt;心得&lt;/h1&gt;
