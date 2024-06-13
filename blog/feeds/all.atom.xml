@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-06T07:19:34+08:00</updated><entry><title>2b-midbg8協同產品設計實習-W15</title><link href="./2024-Spring-w15-blog-tutorial.html" rel="alternate"></link><published>2024-05-30T13:20:00+08:00</published><updated>2024-06-06T07:19:34+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-05-30:./2024-Spring-w15-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-13T13:20:00+08:00</updated><entry><title>2b-midbg8協同產品設計實習-W17</title><link href="./2024-Spring-w17-blog-tutorial.html" rel="alternate"></link><published>2024-06-13T13:20:00+08:00</published><updated>2024-06-13T07:50:24+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-06-13:./2024-Spring-w17-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
+
+
+&lt;h1&gt;心得&lt;/h1&gt;
+&lt;p&gt;41023132:
+這週要到&lt;a href="https://forms.gle/kLp6CUyn9xy6ybRy6"&gt;表格連結&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;填寫Ｗ17的項目1-3，由於之前都不是用NX，&lt;/p&gt;
+&lt;p&gt;所以今天趕忙用NX的軟體錄製PY檔，&lt;/p&gt;
+&lt;p&gt;但是還需要修改。&lt;/p&gt;
+&lt;p&gt;41039138:&lt;/p&gt;
+&lt;h1&gt;實習項目&lt;/h1&gt;
+&lt;h2&gt;項目一&lt;/h2&gt;
+&lt;p&gt;請根據 &lt;a href="https://mde.tw/cd2024/content/index.html"&gt;連結&lt;/a&gt;網頁中的期末報告題目說明, 逐一完成下列評量項目,&lt;/p&gt;
+&lt;p&gt;請利用 NX1872, 完成可以參與球賽競技的機器人零件與組立件設計, 過程中請拍攝零組件繪製過程, 以 "cd2024 協同產品設計實習期末實習評量項目一, 學號 XXXXXXX" 作為 mp4 影片標題, 上傳至 Youtube 後, 在個人靜態網站中新增標題為 "w17", 格式為 H1 的頁面, 嵌入所完成的項目一 Youtube 影片以及所完成的零組件檔案連結後, 將此網頁網址 (即 https://個人_github帳號.github.io/cd2024/w17) 提交連結回報至評量回傳表的對應欄位中.&lt;/p&gt;
+&lt;h2&gt;項目二&lt;/h2&gt;
+&lt;p&gt;請自選上列項目一中某一零件組立過程, 以 NXOpen Python 程式完成組立, 過程中請拍攝 Python Journal 程式組立過程, 以"cd2024 協同產品設計實習期末實習評量項目二, 學號 XXXXXXX" 作為 mp4 影片標題, 上傳至 Youtube 後, 在 "w17" 頁面中嵌入所完成的項目二 Youtube 影片以及所完成的 Python Journal 程式檔案連結 (請放入 downloads 目錄, 並以 .txt 作為副檔名), 將此網頁網址 (即 https://個人_github帳號.github.io/cd2024/w17) 提交連結回報至評量回傳表的對應欄位中.&lt;/p&gt;
+&lt;h2&gt;項目三&lt;/h2&gt;
+&lt;p&gt;請將所完成的機器人球員放入 CoppeliaSim 運動場景中 (即 &lt;a href="https://mde.tw/cd2024/content/index.html"&gt;連結&lt;/a&gt;網頁中的 cd2024_footbasketball_field_specification_step2.7z 場景), 讓球員可以由 ZMQ Remote API 程式控制, 執行後按下 w 鍵後球員可向前移動, 按下 s 後球員可向後移動, 過程中請拍攝 Python 程式執行與球員前後移動過程, 以"cd2024 協同產品設計實習期末實習評量項目三, 學號 XXXXXXX" 作為 mp4 影片標題", 上傳至 Youtube 後, 在 "w17" 頁面中嵌入所完成的項目三 Youtube 影片、場景 .ttt 連結以及所完成的 ZMQ Remote API Python 程式檔案連結 (請放入 downloads 目錄, 並以 .txt 作為副檔名), 將此網頁網址 (即 https://個人_github帳號.github.io/cd2024/w17) 提交連結回報至評量回傳表的對應欄位中.&lt;/p&gt;</content><category term="w17"></category><category term="網誌編寫"></category></entry><entry><title>2b-midbg8協同產品設計實習-W15</title><link href="./2024-Spring-w15-blog-tutorial.html" rel="alternate"></link><published>2024-05-30T13:20:00+08:00</published><updated>2024-06-06T07:19:34+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-05-30:./2024-Spring-w15-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習課程.&lt;/p&gt;
 
 
