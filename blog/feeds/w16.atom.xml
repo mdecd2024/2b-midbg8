@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w16</title><link href="./" rel="alternate"></link><link href="./feeds/w16.atom.xml" rel="self"></link><id>./</id><updated>2024-06-19T13:00:58+08:00</updated><entry><title>2b-midbg8協同產品設計實習-W16</title><link href="./2024-Spring-w16-blog-tutorial.html" rel="alternate"></link><published>2024-06-06T13:20:00+08:00</published><updated>2024-06-19T13:00:58+08:00</updated><author><name>41023132、41039138</name></author><id>tag:None,2024-06-06:./2024-Spring-w16-blog-tutorial.html</id><summary type="html">&lt;p&gt;2b-midbg8 協同產品設計實習W16課程.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2b-midbg8 協同產品設計實習W16課程.&lt;/p&gt;
+
+
+&lt;h1&gt;課程活動&lt;/h1&gt;
+&lt;h2&gt;期末作業&lt;/h2&gt;
+&lt;p&gt;在建立好模型後匯入到已有的.ttt檔的範本後將原本的機器人改成我自己畫的機器人，但是在模擬後他的前輪會自動轉90度，就算我用旋轉還是會自己跑回90度，目前雖然會動，但他的移動方式不是很正常。&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/d5DT6VU6z6g?si=n4AOpg3_JrARy68L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;div id="disqus_thread"&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://blog-1-4.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="w16"></category><category term="網誌編寫"></category></entry></feed>
